@@ -1,7 +1,7 @@
 export default defineAppConfig({
   alpine: {
-    title: 'Alpine',
-    description: 'The minimalist blog theme',
+    title: 'House of Wadjet Recor',
+    description: 'Ancient Future Music',
     image: {
       src: '/social-card-preview.png',
       alt: 'An image showcasing my project.',
